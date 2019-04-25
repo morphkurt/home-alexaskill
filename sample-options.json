@@ -1,0 +1,6 @@
+{
+	"username" : "username" ,
+	"password" : "password",
+	"hostname" : "www.example.com",
+	"protocol" : "https"
+}
